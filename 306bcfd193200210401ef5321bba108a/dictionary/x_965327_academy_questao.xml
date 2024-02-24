@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5c8f346593e40210401ef5321bba10ca" extends="task" label="Questão" max_length="40" name="x_965327_academy_questao" type="collection">
+        <element label="Item A" max_length="250" name="item_a" type="string"/>
+        <element label="Item B" max_length="250" name="item_b" type="string"/>
+        <element label="Item C" max_length="250" name="item_c" type="string"/>
+        <element label="Item D" max_length="250" name="item_d" type="string"/>
+        <element label="Item E" max_length="250" name="item_e" type="string"/>
+        <element label="Item F" max_length="250" name="item_f" type="string"/>
+        <element label="Questão" max_length="5000" name="questao" type="string"/>
+        <element label="Resposta Item A" max_length="40" name="resposta_item_a" type="boolean"/>
+        <element label="Resposta Item B" max_length="40" name="resposta_item_b" type="boolean"/>
+        <element label="Resposta Item C" max_length="40" name="resposta_item_c" type="boolean"/>
+        <element label="Resposta Item D" max_length="40" name="resposta_item_d" type="boolean"/>
+        <element label="Resposta Item E" max_length="40" name="resposta_item_e" type="boolean"/>
+        <element label="Resposta Item F" max_length="40" name="resposta_item_f" type="boolean"/>
+    </element>
+</database>
