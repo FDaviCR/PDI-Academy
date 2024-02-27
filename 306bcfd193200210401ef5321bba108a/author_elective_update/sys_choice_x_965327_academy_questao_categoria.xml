@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="categoria" table="x_965327_academy_questao" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>categoria</element>
+            <name>x_965327_academy_questao</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:25:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>categoria</sys_name>
+            <sys_package display_value="Academy" source="x_965327_academy">306bcfd193200210401ef5321bba108a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Academy">306bcfd193200210401ef5321bba108a</sys_scope>
+            <sys_update_name>sys_choice_x_965327_academy_questao_categoria</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:25:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform Overview and Navigation</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:25:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:25:47</sys_updated_on>
+            <value>Platform Overview and Navigation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Instance Configuration</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:26:07</sys_updated_on>
+            <value>Instance Configuration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Configuring Applications for Collaboration</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:26:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:26:35</sys_updated_on>
+            <value>Configuring Applications for Collaboration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Self Service &amp; Automation</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:26:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:26:47</sys_updated_on>
+            <value>Self Service &amp; Automation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Management</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:27:05</sys_updated_on>
+            <value>Database Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>categoria</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Migration and Integration</label>
+            <language>en</language>
+            <name>x_965327_academy_questao</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:27:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:27:41</sys_updated_on>
+            <value>Data Migration and Integration</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
