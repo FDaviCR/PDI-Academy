@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5c8f346593e40210401ef5321bba10ca" extends="task" label="Questão" max_length="40" name="x_965327_academy_questao" type="collection">
+    <element db_object_id="5c8f346593e40210401ef5321bba10ca" extends="task" label="Question" max_length="40" name="x_965327_academy_questao" type="collection">
+        <element choice="1" label="Categoria" max_length="100" name="categoria" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Platform Overview and Navigation" sequence="100" value="Platform Overview and Navigation"/>
+                <element inactive_on_update="false" label="Instance Configuration" sequence="200" value="Instance Configuration"/>
+                <element inactive_on_update="false" label="Configuring Applications for Collaboration" sequence="300" value="Configuring Applications for Collaboration"/>
+                <element inactive_on_update="false" label="Self Service &amp; Automation" sequence="400" value="Self Service &amp; Automation"/>
+                <element inactive_on_update="false" label="Database Management" sequence="500" value="Database Management"/>
+                <element inactive_on_update="false" label="Data Migration and Integration" sequence="600" value="Data Migration and Integration"/>
+            </choice>
+        </element>
         <element label="Item A" max_length="250" name="item_a" type="string"/>
         <element label="Item B" max_length="250" name="item_b" type="string"/>
         <element label="Item C" max_length="250" name="item_c" type="string"/>

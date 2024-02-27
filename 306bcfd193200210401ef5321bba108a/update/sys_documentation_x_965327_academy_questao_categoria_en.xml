@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Question" language="en" table="x_965327_academy_questao">
+    <sys_documentation element="categoria" label="Categoria" language="en" table="x_965327_academy_questao">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>categoria</element>
             <help/>
             <hint/>
-            <label>Question</label>
+            <label>Categoria</label>
             <language>en</language>
             <name>x_965327_academy_questao</name>
-            <plural>Questions</plural>
+            <plural>Categorias</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-23 21:38:47</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Question</sys_name>
+            <sys_created_on>2024-02-27 13:24:44</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Categoria</sys_name>
             <sys_package display_value="Academy" source="x_965327_academy">306bcfd193200210401ef5321bba108a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Academy">306bcfd193200210401ef5321bba108a</sys_scope>
-            <sys_update_name>sys_documentation_x_965327_academy_questao__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_965327_academy_questao_categoria_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-27 13:24:44</sys_updated_on>
             <url/>
